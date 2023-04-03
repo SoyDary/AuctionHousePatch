@@ -1,0 +1,6 @@
+name: AuctionHousePatch
+version: 1.0
+author: Dariela
+depend: [AuctionHouse]
+main: com.github.SoyDary.AuctionHousePatch.AuctionHousePatch
+api-version: 1.13
